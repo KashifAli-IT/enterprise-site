@@ -1,0 +1,7 @@
+# Local browser storage / backups (keep repo clean)
+*.json
+*.pdf
+*.zip
+.DS_Store
+Thumbs.db
+
